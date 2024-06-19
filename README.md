@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nayeoonn&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
 <div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nayeoonn&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
 <p>	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeoonn&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Nayeoonn&show_icons=true">
